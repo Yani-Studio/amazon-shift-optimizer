@@ -2,6 +2,17 @@
 
 # 📅 Employee Shift Scheduling Optimization Engine (Amazon Shift Optimizer)
 
+<!-- GitHub Expert Style Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/OptaPlanner-Engine-brightgreen?style=for-the-badge" alt="OptaPlanner">
+  <img src="https://img.shields.io/badge/Algorithm-Simulated_Annealing-blueviolet?style=for-the-badge" alt="Simulated Annealing">
+  <img src="https://img.shields.io/badge/AWS_CDK-Infrastructure-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CDK">
+  <img src="https://img.shields.io/badge/License-Copyright-yellow?style=for-the-badge" alt="License">
+</p>
+<br>
+
 <img src="images/streamlit_dashboard_premium.png" alt="Streamlit Dashboard" width="90%">
 
 <br>
