@@ -12,7 +12,6 @@ A premium employee shift scheduling optimization engine built on **OptaPlanner (
 By evolving the optimization algorithm from a basic Tabu Search (Model 1) to a penalty-weighted Simulated Annealing model (Model 3), the engine achieved the following real-world impacts:
 - **📉 Workload Imbalance Resolved by 85%**: Minimized the variance in shift assignments across employees, ensuring perfectly equitable monthly workloads.
 - **🛡️ Employee Burnout Risk Reduced by 50%**: Decreased the maximum consecutive working days from an exhausting 6 days down to a strictly controlled 3 days.
-- **⚡ Scheduling Time Reduced by 99%**: Automated a manual scheduling process that typically takes days into a 30-second execution via the BAVET constraint engine.
 
 </div>
 
