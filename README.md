@@ -103,20 +103,6 @@ An improvement attempt to solve Model 1's issues. It applied a Squared Penalty t
 
 ---
 
-## 📂 Project Structure
-
-```text
-.
-├── infra/                  # AWS CDK code for cloud resource deployment (IaC)
-├── opt_engine/             # Core Optimization Engine Logic
-│   ├── apps/               # Spring Boot / Quarkus REST API for OptaPlanner integration
-│   ├── core/               # Domain Models, Entities, and Constraint definitions
-│   └── streamlit_app/      # Python Streamlit Dashboard frontend & Jupyter Notebooks for analysis
-└── README.md
-```
-
----
-
 ## 📚 References & Data Sources
 
 - **Core Optimization Engine:** [OptaPlanner Documentation](https://www.optaplanner.org/learn/documentation.html) (Currently migrating to Timefold)
