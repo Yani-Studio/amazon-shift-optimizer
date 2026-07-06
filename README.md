@@ -13,14 +13,15 @@
 </p>
 <br>
 
+>⚠️ Copyright Notice
+>Copyright (c) 2026 Kang Gyu Min. All rights reserved.
+
 <img src="images/streamlit_dashboard_premium.png" alt="Streamlit Dashboard" width="90%">
 
 <br>
 
 A premium employee shift scheduling optimization engine built on **OptaPlanner (BAVET Constraint Stream + Simulated Annealing)** and visualized with a **Streamlit Dashboard**. This project solves the complex NP-Hard problem of workforce scheduling, ensuring complete satisfaction of business requirements while guaranteeing fairness and preventing employee burnout.
 
->⚠️ Copyright Notice
->Copyright (c) 2026 Kang Gyu Min. All rights reserved.
 
 ## 🏆 Key Business Achievements
 By evolving the optimization algorithm from a basic Tabu Search (Model 1) to a penalty-weighted Simulated Annealing model (Model 3), the engine achieved the following real-world impacts:
